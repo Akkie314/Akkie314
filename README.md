@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hello. I'm Aki.
+## Works
+| 作品名 | 概要 | 使用技術 |
+| ----- | ------ | ---- |
+| [Kura](https://github.com/Akkie314/Kura) | Discordで10MB超の動画や画像をOGP埋め込みして快適に共有できる自前ホスティング対応サービス。<br/>[大学内のテジタルコンテンツコンテスト](https://wwwise.kyoto-su.ac.jp/?page_id=13840)で最優秀賞を獲得。 | Go・Nuxt.js・PostgreSQL |  
+| [Citation Generator](https://github.com/Akkie314/Citation_Generator) | ブラウザで開いているWebページの出典情報をワンクリックで生成・コピーできるChrome拡張。週アクティブユーザ数が30人もいてくれています。 | WXT・Vue |  
+| [ada_sqrt_newton](https://github.com/Akkie314/ada_sqrt_newton) | Adaでニュートン法を使って平方根を求めるプロジェクト。Adaの基本的な構文、標準入力、数値変換、例外処理、関数定義などを学ぶことを目的としました。 | Ada |
+| [Photo Gallary](https://github.com/Akkie314/05.PhotoGallery) | GSAPの学習用につくりました。カードを後ろに送るアニメーションにこだわった作品です。 | HTML・CSS・JavaSceipt・GSAP |  
 
 <!--
 **Akkie314/Akkie314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
